@@ -3,7 +3,7 @@ export const ProductType: { id: number; section: string; link: string[]; }[] = [
   {
     id: 1,
     section: "Menu",
-    link: ['Home', '109 Nguyễn minh Hoàng,Tân Bình,HCM', 'Hotline:090.141.3079', 'Email:cskh@diennuocsgxanh.com'],
+    link: ['Home', '36 Mạc Đỉnh Chi, Dakao, Q.1', 'Hotline:090.141.3079', 'Email:cskh@diennuocsgxanh.com'],
   },
   {
     id: 2,
